@@ -17,7 +17,7 @@ sdhsh
 
 
 
-Серега чмо ебаная крыса
+Serega chmo ebanoe
 
 
 ?>
