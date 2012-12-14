@@ -32,6 +32,7 @@ $db->addRecord($student);
 $db->listRecords();
 
 
+отметился
 
 
 
