@@ -2,34 +2,19 @@
 
 /*
 
-Задание:
-1. добавить и вывести поле Age в списке студентов. Поле Age надо вводить также, как и Name
-2. Добавить поле пол в базовый класс для всех людей и выводить его в списке для каждого студента. Поле Пол надо вводить также, как и Name
-3. Добавить поле фамилия в класс студента, вводить его в форме, также сохранять в бд и также выводить в списке
+qjowhe;jsh;asfjh;l;has; jkasgh;gjkhap h;lj h;oaerl h; t aj'[ ; g;j h;ji g  g o[haerioo;sdfh;jldh;jkldf'\pasj ;df;hdfo;ajhf;fhjfaiafhjadfihf]\afh[h
+afihg'alkfhglha
+sfoafhl'haf'agj\
+jafl;shghja
+akajjldhgalgf
+afjkg'klgdsjkl'sghg
+s
+fgh
+hs
 
-Бонус: 
-4. написать удаление записей из БД
+gsfghsgdhf
+sdhsh
 
-
-*/
-
-
-
-include "html/index.html";
-
-include "classes/people.php";
-include "classes/student.php";
-include "classes/db.php";
-
-
-$student = new Student();
-$student->name = $_REQUEST['name'];
-
-
-$db = new DB();
-$db->addRecord($student);
-
-$db->listRecords();
 
 
 Серега чмо
