@@ -32,7 +32,7 @@ $db->addRecord($student);
 $db->listRecords();
 
 
-
+Серега чмо
 
 
 ?>
